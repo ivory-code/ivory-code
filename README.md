@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ivory-code/ivory-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ivory-code
+
+### Hi there 👋
+
+I am ivory-code, I live in Korea, and welcome to my github profile!
+
+🔭 I’m currently working on INSA, ACG.personal projects and studying!
+🌱 I’m currently learning React JS!
+👀 I’m interesting in Web, App programming.
