@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 I am ivory-code, I live in Korea, and welcome to my github profile!
 
 🔭 &nbsp;I’m currently working on INSA, ACG!<br />
-🌱 &nbsp;I’m currently learning React JS!<br />
-👀 &nbsp;I’m interesting in Web, App programming!
+🌱 &nbsp;I’m currently using and learning JavaScript and React JS!<br />
+👀 &nbsp;I’m interesting in Web and App programming!
