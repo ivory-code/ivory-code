@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am ivory-code, I live in Korea, and welcome to my github profile!
+I am ivory-code! I live in Seoul, South Korea!! And welcome to my github profile!!!
 
 🔭 &nbsp;I’m currently working on INSA, ACG!<br />
 🌱 &nbsp;I’m currently learning JavaScript, React JS!<br />
