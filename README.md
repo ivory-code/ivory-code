@@ -61,3 +61,8 @@ I am ivory-code! I live in Seoul, South Korea!! And welcome to my github profile
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
+
+
+### 💻 solved.ac
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo3553)](https://solved.ac/kyo3553)
