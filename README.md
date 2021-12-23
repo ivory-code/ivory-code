@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 I am "ivory-code", Hansung Kwon! I live in Seoul, South Korea!! And welcome to my github profile!!!
 
-🔭 &nbsp;I’m currently working on INSA, ACG!<br />
-🌱 &nbsp;I’m currently learning JavaScript, React JS!<br />
+<!-- 🔭 &nbsp;I’m currently working on INSA, ACG!<br /> -->
+🌱 &nbsp;I’m currently learning JavaScript, React JS, React Native!<br />
 ⚡ &nbsp;I’m interesting in Web Programming with React JS and App programming with React Native!
 
 ### 💪 Skills
