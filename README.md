@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to my github profile!!!
+I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!
 
 🔭 &nbsp;I’m currently working for 'MonyMony' and using React Native!<br />
 🌱 &nbsp;I’m currently learning JavaScript, React JS, React Native!<br />
