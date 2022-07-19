@@ -70,4 +70,3 @@ I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to m
 ### 💻 solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo3553)](https://solved.ac/kyo3553)
-
