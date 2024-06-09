@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!
-
-🔭 &nbsp;I’m currently working for 'MonyMony' and using React Native!<br />
-🌱 &nbsp;I’m currently learning JavaScript, React JS, React Native!<br />
-⚡ &nbsp;I’m interesting in Web Programming with React JS and App programming with React Native!
+I am `ivory-code`, Hansung Kwon! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!<br /><br />
+😄 &nbsp;I always find joy in maintaining consistency in learning and growing. Even if it's slow, I never give up.<br /><br />
+🔭 &nbsp;I’m currently working at 'MonyMony' and using React Native!<br />
+🌱 &nbsp;I’m currently learning JavaScript, React JS, and React Native!<br />
+⚡ &nbsp;I’m interested in Web Programming with React JS and App Programming with React Native!
 
 ### 💪 Skills
 #### Platforms & Languages
@@ -41,7 +41,6 @@ I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to m
 <p>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Relay-F26B00?style=flat-square&logo=Relay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/> 
 </p>
 
 #### Tools
@@ -54,7 +53,6 @@ I am 'ivory-code', Hansung Kwon! I live in Seoul, South Korea!! And welcome to m
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 
 
