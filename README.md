@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ## ivory-code
 
+<p>
+  <a href="https://ivory-code.github.io/resume/">
+    <img src="https://img.shields.io/badge/Resume-E10098?style=flat-square&logo=readme&logoColor=white"/> 
+  </a>
+</p>
 
 <p>
 <!--   <a href="https://ivorycode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
