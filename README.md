@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 I am `ivory-code`, Hansung Kwon! I live in Seoul, South Korea!! And welcome to my GitHub profile!!!<br /><br />
-😄 &nbsp;I always find joy in maintaining consistency in learning and growing. Even if it's slow, I never give up.<br /><br />
-🔭 &nbsp;I’m currently working at 'MonyMony' and using React Native!<br />
-🌱 &nbsp;I’m currently learning JavaScript, React JS, and React Native!<br />
-⚡ &nbsp;I’m interested in Web Programming with React JS and App Programming with React Native!
+😄 &nbsp;I always find joy in maintaining consistency in learning and growing. Even if it's slow, I never give up.<br />
+<!-- 🔭 &nbsp;I’m currently working at 'MonyMony' and using React Native!<br /> -->
+🌱 &nbsp;I’m currently learning JavaScript, React, and React Native!<br />
+⚡ &nbsp;I’m interested in Web Programming with React and App Programming with React Native!
 
 ### 💪 Skills
 #### Platforms & Languages
@@ -61,6 +61,6 @@ I am `ivory-code`, Hansung Kwon! I live in Seoul, South Korea!! And welcome to m
 </p>
 
 
-### 💻 solved.ac
+<!-- ### 💻 solved.ac
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo3553)](https://solved.ac/profile/kyo3553)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyo3553)](https://solved.ac/profile/kyo3553) -->
