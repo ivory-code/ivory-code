@@ -14,3 +14,15 @@
   <a href="https://apps.apple.com/us/app/mood-note-emotion-journal/id6759555409"><img src="https://img.shields.io/badge/App%20Store-US-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="Mood Note App Store US" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.monmon.moodnote&hl=en&gl=US"><img src="https://img.shields.io/badge/Google%20Play-US-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Mood Note Google Play US" /></a>
 </p>
+
+### Current work
+
+I build web and mobile products, design systems, and developer tools that turn recurring product and operational bottlenecks into practical systems.
+
+Currently building **[QAMap](https://github.com/IvoryCanvas/qamap)**, a local, zero-LLM CLI that reads PR commits and diffs to clarify what a change needs to prove before merge.
+
+<p>
+  <a href="https://github.com/IvoryCanvas/qamap">
+    <img src="https://img.shields.io/badge/QAMap-0B2039?style=flat-square&logo=github&logoColor=white" alt="QAMap on GitHub" />
+  </a>
+</p>
