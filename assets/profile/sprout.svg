@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="44" viewBox="0 0 40 44" shape-rendering="crispEdges">
+  <style>
+    .stem { fill: #48714c; }
+    .leaf { fill: #759865; }
+    .pot { fill: #ad866d; }
+    .rim { fill: #8e6d59; }
+    @media (prefers-color-scheme: dark) {
+      .stem { fill: #8cac78; }
+      .leaf { fill: #a4bb86; }
+      .pot { fill: #be9277; }
+      .rim { fill: #9a785f; }
+    }
+  </style>
+  <rect class="stem" x="16" y="8" width="4" height="20" />
+  <rect class="leaf" x="4" y="8" width="12" height="8" />
+  <rect class="leaf" x="4" y="4" width="8" height="4" />
+  <rect class="stem" x="20" y="4" width="12" height="8" />
+  <rect class="stem" x="24" y="0" width="8" height="4" />
+  <rect class="rim" x="8" y="28" width="20" height="4" />
+  <rect class="pot" x="12" y="32" width="12" height="8" />
+</svg>
