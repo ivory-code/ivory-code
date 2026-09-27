@@ -31,7 +31,7 @@ A private journal for iOS and Android. Record a feeling, add words or a drawing,
 
 ---
 
-[Resume](https://ivory-code.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/hansung-kwon-194aa0220/) · [Email](mailto:kyo3553@gmail.com)
+[Resume](https://ivory-code.github.io/resume/) · [Email](mailto:kyo3553@gmail.com)
 
 <!-- Previous profile image — retained for reuse.
 [![Ivory Code — Product Engineer, UX-first Web & Mobile, Mood Note](./assets/stardew-profile/ivory-code-stardew-profile-full.png)](https://ivory-code.github.io/resume/)
